@@ -1,0 +1,1 @@
+Dad Jokes is a small app built with React, that lets users view & vote on cheesy jokes using the ICanHazDadJoke API.
